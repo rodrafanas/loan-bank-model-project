@@ -5,7 +5,7 @@ term,input,interval,True,float64,2
 emp_length,input,interval,True,float64,11
 home_ownership,input,nominal,True,object,6
 annual_inc,input,interval,True,float64,64362
-addr_state,input,nominal,True,object,51
+addr_state,input,ordinal,True,int64,51
 dti,input,interval,True,float64,7067
 mths_since_recent_inq,input,interval,True,float64,26
 bc_open_to_buy,input,interval,True,float64,74924
